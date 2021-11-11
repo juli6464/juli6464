@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-🌱 I’m currently learning Tailwindcss, Laravel and Svelte<br>
+🌱 I’m currently learning Tailwindcss, Laravel and Svelte</br>
 
 **Languages and Tools:**
 
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
       
 
-Contacto:
+Contact:
 * Personal blog : https://desarrolloycreo.blogspot.com/<br>
-* Página web: https://juli6464.github.io/<br>
+* Web page: https://juli6464.github.io/<br>
 * Linkedin : https://www.linkedin.com/in/%F0%9F%9A%80julian-david-alzate-cuervo-17a92ba5/<br>
 * GitHub: https://github.com/juli6464<br>
 ----------------------------------------------------------
