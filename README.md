@@ -5,7 +5,7 @@ Professional in Telematics Engineering, with extensive experience in database de
 # Contact:
 * Personal blog : https://desarrolloycreo.blogspot.com/<br>
 * Web page: https://juli6464.github.io/<br>
-* Linkedin : https://www.linkedin.com/in/%F0%9F%9A%80julian-david-alzate-cuervo-17a92ba5/<br>
+* Linkedin : https://www.linkedin.com/in/julian-david-alzate-cuervo-backend/<br>
 * GitHub: https://github.com/juli6464<br>
 
 
