@@ -1,5 +1,9 @@
 # 💫 About Me:
-Professional in Telematics Engineering, with extensive experience in database development and programming; I have had the opportunity to work in Educational Industries, Health, Technology and Banking. My experience extends to working with a wide range of programming languages ​​such as PHP, HTML, CSS, Tailwindcss, JavaScript, Typescript, JSON, XML, JQuery and databases such as MYSQL, MongoDB, Sql Server and PostgreSQL. Additionally, I use frameworks such as DHTMLX, Bootstrap, Laravel, Vuejs, Node.js, Nestjs, Express.js; experience in WordPress, Moodle, Git, GitHub, working with SCRUM methodology. I like to work as a team, innovate and generate excellent communication with clients to meet their needs.
+Telematics Engineering professional with experience in software development and database management across the Education, Healthcare, Technology, and Banking sectors. Skilled in PHP, HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, and databases such as MySQL, MongoDB, SQL Server, and PostgreSQL.
+
+I develop web applications and APIs using Laravel, Vue.js, Node.js, NestJS, and Express.js. I use Docker to manage application containers and development environments, Make to automate tasks such as service startup, script execution, and deployments, and AI-assisted development tools like Cursor to improve development efficiency, code quality, and refactoring.
+
+I also have experience with WordPress, Moodle, Git, GitHub, and SEO, working under SCRUM methodology. I enjoy teamwork, innovation, and maintaining clear and effective communication with clients to meet their needs.
 <br>
 
 # Contact:
